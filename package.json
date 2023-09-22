@@ -1,0 +1,27 @@
+{
+  "name": "example-js-import",
+  "version": "1.0.0",
+  "description": "example-js-import\r =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=8080 --open=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-pacheco/example-js-import.git"
+  },
+  "author": "Wilfredo Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-pacheco/example-js-import/issues"
+  },
+  "homepage": "https://github.com/w-pacheco/example-js-import#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
