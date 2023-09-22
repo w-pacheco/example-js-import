@@ -43,7 +43,6 @@ npm run dev
     ``` javascript
     import "module-name";
     import { export1, export2 } from "module-name";
-    import { export1 as alias1 } from "module-name";
     import defaultExport, { export1, /* … */ } from "module-name";
     ```
 
